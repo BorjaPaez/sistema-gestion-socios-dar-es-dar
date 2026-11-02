@@ -1,5 +1,4 @@
--- Base de datos Dar es Dar
--- Ejecutar en MySQL Workbench.
+-- MySQL Workbench
 CREATE DATABASE IF NOT EXISTS dar_es_dar;
 USE dar_es_dar;
 
